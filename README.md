@@ -1,11 +1,11 @@
 
-<img src="https://github.com/Rushikeshp2002/Images/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" style="width:100vw" align="center">
+<img src="https://github.com/Ashishp001/Images/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" style="width:100vw" align="center">
 <h1 align="center">Hi 👋, I'm Ashish Patil</h1>
 <h3 align="center">A passionate front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshp2002&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshp2002" /> </p>
 
-<img align = "right" src = "https://github.com/Rushikeshp2002/Images/blob/main/200w.gif" style="width:20vw" >
+<img align = "right" src = "https://github.com/Ashishp001/Images/blob/main/200w.gif" style="width:20vw" >
 
 
 
