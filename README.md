@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently Studying at **GA College of Sangli**
+- 🔭 I’m currently Studying at **IICMR Nigdi**
 
-- 🌱 I’m currently learning **Bachelor Of Computer Application**
+- 🌱 I’m currently learning **Master Of Computer Application**
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
